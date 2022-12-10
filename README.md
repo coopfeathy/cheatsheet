@@ -4,21 +4,7 @@ Cheatsheets for experienced React developers getting started with TypeScript
 
 ---
 
-<a href="https://github.com/typescript-cheatsheets/react/issues/81">
-  <img
-    height="90"
-    width="90"
-    alt="react + ts logo"
-    src="https://user-images.githubusercontent.com/84442212/194379444-02e5ec69-5e6c-4100-bd7a-c31d628af29c.png"
-    align="left"
-  />
-</a>
 
-[**Web docs**](https://react-typescript-cheatsheet.netlify.app/docs/basic/setup) |
-[**Español**](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet-es) |
-[**Português**](https://github.com/typescript-cheatsheets/react-pt) |
-[Contribute!](https://github.com/typescript-cheatsheets/react/blob/main/CONTRIBUTING.md) |
-[Ask!](https://github.com/typescript-cheatsheets/react/issues/new/choose)
 
 :wave: This repo is maintained by [@swyx](https://twitter.com/swyx), [@eps1lon](https://twitter.com/sebsilbermann) and [@filiptammergard](https://twitter.com/tammergard). We're so happy you want to try out TypeScript with React! If you see anything wrong or missing, please [file an issue](https://github.com/typescript-cheatsheets/react/issues/new/choose)! :+1:
 
@@ -3095,16 +3081,7 @@ It is worth mentioning some resources to help you get started:
 
 ### Example App
 
-- [Create React App TypeScript Todo Example 2021](https://github.com/laststance/create-react-app-typescript-todo-example-2021)
-- [Ben Awad's 14 hour Fullstack React/GraphQL/TypeScript Tutorial](https://www.youtube.com/watch?v=I6ypD7qv3Z8)
-- [Cypress Realworld App](https://github.com/cypress-io/cypress-realworld-app)
 
-<!--END-SECTION:examples-->
-
-## My question isn't answered here!
-
-- [File an issue](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet/issues/new).
 
 ## Contributors
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. See [CONTRIBUTORS.md](/CONTRIBUTORS.md) for the full list. Contributions of any kind welcome!
